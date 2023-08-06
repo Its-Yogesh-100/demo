@@ -1,0 +1,2 @@
+2023-08-06T16:32:50+00:00 CRITICAL Out of memory (allocated 98566144) (tried to allocate 32768 bytes) in C:\xampp\htdocs\skillupx\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Telemetry\class-wc-rest-telemetry-controller.php on line 1
+

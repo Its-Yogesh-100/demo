@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Courses &#8211; skillupx</title>
+	<atom:link href="https://https://its-yogesh-100.github.io/demo//courses/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://its-yogesh-100.github.io/demo/</link>
+	<description></description>
+	<lastBuildDate>Sun, 06 Aug 2023 10:53:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>The Complete Python Bootcamp</title>
+		<link>https://https://its-yogesh-100.github.io/demo//courses/the-complete-python-bootcamp/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 10:51:44 +0000</pubDate>
+				<guid isPermaLink="false">https://https://its-yogesh-100.github.io/demo//?post_type=courses#038;p=163</guid>
+
+					<description><![CDATA[Learn Python like a Professional Start from the basics and go all the way to creating your own]]></description>
+										<content:encoded><![CDATA[<p>Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Javascript Tutorilas</title>
+		<link>https://https://its-yogesh-100.github.io/demo//courses/javascript-tutorilas/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 06 Aug 2023 08:53:45 +0000</pubDate>
+				<guid isPermaLink="false">https://https://its-yogesh-100.github.io/demo//?post_type=courses#038;p=18</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Html Tutorials For Begineers</title>
+		<link>https://https://its-yogesh-100.github.io/demo//courses/html-tutorials-for-begineers/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 17:23:49 +0000</pubDate>
+				<guid isPermaLink="false">https://https://its-yogesh-100.github.io/demo//?post_type=courses#038;p=11</guid>
+
+					<description><![CDATA[Discover the power of web development with our HTML Masterclass! Whether you&#8217;re a beginner or seasoned enthusiast, this]]></description>
+										<content:encoded><![CDATA[<p>Discover the power of web development with our HTML Masterclass! Whether you&#8217;re a beginner or seasoned enthusiast, this comprehensive course will equip you with essential HTML skills. From creating stunning web pages to real-world projects, join us to unleash your creativity and embark on an exciting journey into the world of web developmen</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
